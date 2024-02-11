@@ -1,5 +1,5 @@
 # batch-archive-script
-Batch-Script to archive files and subfolders from a give sourcefolder without using WMIC
+Batch-Script to archive files and subfolders from a given sourcefolder without using WMIC
 
 The following variables can be set:  
 **[sourceFolder]** to archive, specify the folder from which you want to archive  

@@ -1,6 +1,10 @@
 @ECHO off
 setlocal enabledelayedexpansion
 
+REM This software is provided under the [EXISTING LICENSE, e.g., Apache License 2.0] with the following additional restriction:
+REM The software and derivatives may not be used for commercial hosting services, including, but not limited to, those offered by Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform, and similar platforms.
+REM For more details, see the full license text at [https://www.apache.org/licenses/LICENSE-2.0].
+
 REM ===================================================
 REM
 REM Batch-Script to archive files and subfolders from a given sourcefolder

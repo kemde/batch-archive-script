@@ -3,7 +3,7 @@ setlocal enabledelayedexpansion
 
 REM ===================================================
 REM
-REM Batch-Script to archive files and subfolders from a give sourcefolder
+REM Batch-Script to archive files and subfolders from a given sourcefolder
 REM the Script don't use WMIC
 REM 
 REM to archive, specify the folder from which you want to archive [sourceFolder]

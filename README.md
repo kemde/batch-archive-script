@@ -1,2 +1,8 @@
 # batch-archive-script
 Batch-Script to archive files and subfolders from a give sourcefolder without using WMIC
+
+to archive, specify the folder from which you want to archive [sourceFolder]
+then specify the filetype (e.g. *.pdf, *.xml,...) [filterFileType] 
+specify the archive folder you want to archive to [archiveFolder]
+next specify the depth of archive that will be build - only years, with month or days (year, month,day) [depth]
+at last give the days that shall be past as a number [numberOfDays]

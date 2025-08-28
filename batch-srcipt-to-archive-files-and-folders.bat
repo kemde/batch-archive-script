@@ -16,7 +16,7 @@ REM specify the archive folder you want to archive to [archiveFolder]
 REM next specify the depth of archive that will be build - only years, with month or days (year, month,day) [depth]
 REM at last give the days that shall be past as a number [numberOfDays]
 REM
-REM @owner CAI UG, Hansestadt Wipperfürth, GERMANY
+REM @owner CAI GmbH, Hansestadt Wipperfürth, GERMANY
 REM @author Kai R. Emde
 REM @verion 1.0
 REM @date 07.02.2024
@@ -250,6 +250,7 @@ if /i not "%choice%"=="y" (
 :Cancelled
  	ECHO archiving was cancelled
  	pause
+
 
 
 
